@@ -1,0 +1,12 @@
+# Lokale Zugangsdaten (Vorlage: includes/config.example.php)
+includes/config.php
+
+# Betriebssystem / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs
+*.log

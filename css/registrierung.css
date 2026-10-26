@@ -1,0 +1,21 @@
+
+form{
+    max-width: 60%;
+}
+
+form div input, form input{
+    max-width: 70%;
+}
+h1{
+    margin-bottom: 3rem;
+}
+
+main{
+    padding-top: 10rem;
+}
+
+.error{
+    color: var(--akzentRot);
+}
+
+

@@ -1,0 +1,6 @@
+# Einheitliche Zeilenenden im Repository
+* text=auto
+
+*.png binary
+*.webp binary
+*.ttf binary

@@ -1,0 +1,30 @@
+main{
+    margin-top: 10rem;
+
+    h3, h2{
+        max-width: 60%;
+    }
+}
+form{
+    margin-top: 3rem;
+    max-width: 35%;
+    min-width: 7rem;
+
+    textarea{
+        max-width: 80%;
+        background-color: rgb(80, 79, 79);
+        min-height: 200px;
+
+    }
+    
+    #submit{
+        margin-top: 20px;
+        max-width: 20rem;
+    }
+}
+
+.error{
+    color: var(--akzentRot);
+    display: block;
+    margin-bottom: 10px;
+}
