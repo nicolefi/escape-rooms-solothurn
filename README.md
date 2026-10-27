@@ -86,7 +86,7 @@ Voraussetzungen: PHP 7.4 oder neuer (mit `mysqli`), MySQL bzw. MariaDB.
 
 ## Was ich dabei gelernt habe
 
-Es war interessant wieder ein ganzes Projekt von null auf zu beginnen. Ich wollte das ganze ohne Frameworks auf die Beine stellen, was wieder sehr lehrreich für mich war und ich konnte vieles repetieren und mein Wissen auf den neusten Stand bringen.
+Es war spannend, wieder ein komplettes Projekt von Grund auf zu entwickeln. Dadurch konnte ich mein Wissen nicht nur auffrischen, sondern gezielt erweitern. Ein besonderer Fokus lag dabei auf Sicherheitsaspekten: Ich habe gelernt, das Prinzip der doppelten Sicherheit durch die Kombination von CSRF-Tokens und dem SameSite-Attribut „Lax“ erfolgreich umzusetzen.
 
 ## Mögliche Erweiterungen
 
